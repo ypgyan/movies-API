@@ -1,5 +1,3 @@
-# Teste-vaga-Backend - Yan de Paula
-
 ### Iniciando o projeto com laravel sail (docker):
 1. Clone o repositório
 1. Gere uma API_KEY no [The movie db](https://www.themoviedb.org/ "the movie db") e adiciona ele no .env em TMDB_KEY
